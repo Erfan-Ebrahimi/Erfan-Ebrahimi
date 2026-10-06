@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="150" viewBox="0 0 1440 150" role="img" aria-labelledby="title">
-  <title id="title">From an idea to an interface — let's connect</title>
+  <title id="title">From an idea to software — let's connect</title>
   <defs><linearGradient id="accent"><stop stop-color="#b79aef"/><stop offset="1" stop-color="#76dce1"/></linearGradient><linearGradient id="bg"><stop stop-color="#19172c"/><stop offset="1" stop-color="#101d2c"/></linearGradient></defs>
   <rect x=".5" y=".5" width="1439" height="149" rx="20" fill="url(#bg)" stroke="#3c3a57"/>
   <path d="M0 2H1440" stroke="url(#accent)" stroke-width="2"/>
-  <text x="56" y="66" fill="#f3f1fc" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="600">From an idea to an interface.</text>
+  <text x="56" y="66" fill="#f3f1fc" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="600">From an idea to software.</text>
   <text x="57" y="107" fill="#aaaac6" font-family="Arial,Helvetica,sans-serif" font-size="21">Good conversations are a great place to start.</text>
   <text x="1305" y="98" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-size="78">↗</text>
 </svg>

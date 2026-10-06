@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-  <title id="title">Erfan Ebrahimi | Front-end Developer</title>
+  <title id="title">Erfan Ebrahimi | AI-assisted Software Developer</title>
   <desc id="desc">Original violet and cyan design with a gently floating browser illustration. React, Blazor, JavaScript, TypeScript and C#.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111127"/><stop offset="1" stop-color="#080f20"/></linearGradient>
@@ -26,7 +26,7 @@
     <path d="M-40 425C270 320 500 490 810 443S1225 380 1480 435" fill="none" stroke="#293958"/>
     <rect x="56" y="48" width="46" height="36" rx="10" fill="#a58aff" fill-opacity=".13" stroke="#79629e" stroke-opacity=".5"/>
     <text x="79" y="72" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#c6afff">EE</text>
-    <text x="120" y="72" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3.2" fill="#b6adc9">FRONT-END DEVELOPER</text>
+    <text x="120" y="72" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3.2" fill="#b6adc9">SOFTWARE DEVELOPER</text>
     <text x="52" y="178" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="-2.8" fill="#f8f7ff">Erfan Ebrahimi<tspan fill="#b69aff">.</tspan></text>
     <text x="57" y="234" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="600" fill="url(#accent)">Thoughtful code. Beautiful interfaces.</text>
     <text x="58" y="277" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#969ebc">From an idea to the details that make it feel right.</text>
@@ -35,7 +35,7 @@
       <text x="105" y="342" fill="#82e0e3" text-anchor="middle">React</text>
       <rect x="165" y="317" width="102" height="38" rx="19" fill="#2a2343" stroke="#554674"/>
       <text x="216" y="342" fill="#c6afff" text-anchor="middle">Blazor</text>
-      <text x="289" y="342" fill="#a9aec5">JavaScript · TypeScript · C#</text>
+      <text x="289" y="342" fill="#a9aec5">AI-assisted software development</text>
     </g>
     <g transform="translate(889 89)">
       <ellipse cx="203" cy="134" rx="254" ry="174" fill="none" stroke="#8774b3" stroke-opacity=".24" transform="rotate(-17 203 134)"/>
@@ -47,17 +47,17 @@
         <rect width="420" height="264" rx="18" fill="url(#window)" stroke="#6a628d" stroke-opacity=".7"/>
         <path d="M1 42H419" stroke="#4a4967"/>
         <circle cx="23" cy="22" r="4" fill="#fa9da9"/><circle cx="38" cy="22" r="4" fill="#f4d08b"/><circle cx="53" cy="22" r="4" fill="#8bd9c9"/>
-        <text x="172" y="27" font-family="monospace" font-size="13" fill="#a09bb5">interface.tsx</text>
+        <text x="172" y="27" font-family="monospace" font-size="13" fill="#a09bb5">application.tsx</text>
         <g font-family="Consolas,monospace" font-size="17">
           <text x="26" y="81" fill="#7f88a8">01</text><text x="60" y="81" fill="#d0b7ff">const <tspan fill="#8be1e6">ui</tspan><tspan fill="#d8dcee"> = {</tspan></text>
           <text x="26" y="113" fill="#7f88a8">02</text><text x="80" y="113" fill="#c0c9e1">stack: <tspan fill="#96dec9">["React", "Blazor"]</tspan>,</text>
-          <text x="26" y="145" fill="#7f88a8">03</text><text x="80" y="145" fill="#c0c9e1">focus: <tspan fill="#e9c6a7">"the details"</tspan>,</text>
+          <text x="26" y="145" fill="#7f88a8">03</text><text x="80" y="145" fill="#c0c9e1">workflow: <tspan fill="#e9c6a7">"AI-assisted"</tspan>,</text>
           <text x="26" y="177" fill="#7f88a8">04</text><text x="80" y="177" fill="#c0c9e1">madeWith: <tspan fill="#96dec9">"care"</tspan></text>
           <text x="26" y="209" fill="#7f88a8">05</text><text x="60" y="209" fill="#d8dcee">};</text>
           <rect class="cursor" x="87" y="195" width="9" height="18" fill="#bca3ff"/>
         </g>
         <rect x="25" y="230" width="370" height="1" fill="#45425f"/>
-        <circle cx="33" cy="245" r="3" fill="#9ee3c9"/><text x="45" y="249" fill="#9dabc5" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1">COMPONENTS / STYLES / INTERACTIONS</text>
+        <circle cx="33" cy="245" r="3" fill="#9ee3c9"/><text x="45" y="249" fill="#9dabc5" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1">IDEAS / AI / SOFTWARE</text>
         <g transform="translate(298 175)">
           <rect width="105" height="75" rx="13" fill="#171e32" stroke="#797099"/>
           <rect x="14" y="14" width="77" height="18" rx="5" fill="url(#accent)"/>
