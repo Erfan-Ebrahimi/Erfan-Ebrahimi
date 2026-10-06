@@ -5,10 +5,12 @@
 <p align="center">
   <a href="https://github.com/Erfan-Ebrahimi/erfan-cv"><img src="./assets/portfolio-link.svg" alt="Portfolio source" height="36" /></a>
   &nbsp;
-  <a href="https://github.com/Erfan-Ebrahimi?tab=repositories"><img src="./assets/projects-link.svg" alt="All repositories" height="36" /></a>
+  <a href="#-featured-projects"><img src="./assets/projects-link.svg" alt="Featured projects" height="36" /></a>
   &nbsp;
-  <a href="https://t.me/ME_7676"><img src="./assets/contact-link.svg" alt="Connect on Telegram" height="36" /></a>
+  <a href="#lets-build-something"><img src="./assets/contact-link.svg" alt="Let's connect" height="36" /></a>
 </p>
+
+<p align="center"><a href="#-featured-projects">Selected work</a> &nbsp; · &nbsp; <a href="#-stack--tools">Stack &amp; tools</a> &nbsp; · &nbsp; <a href="#lets-build-something">Get in touch</a></p>
 
 <h2 align="center">Software development, powered by ideas and AI.</h2>
 
@@ -18,23 +20,7 @@
 
 <br />
 
-### ⚡ My toolkit
-
-<p align="center">
-  <img src="./assets/icons/react.svg" alt="React" title="React" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/blazor.svg" alt="Blazor" title="Blazor" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/csharp.svg" alt="C#" title="C#" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/vitejs.svg" alt="Vite" title="Vite" height="42" /> &nbsp;&nbsp;
-  <img src="./assets/icons/git.svg" alt="Git" title="Git" height="42" />
-</p>
-
-<p align="center"><sub>React · Blazor · TypeScript · JavaScript · C# · Tailwind CSS · Vite · Git</sub></p>
-<p align="center"><sub>Also in my projects: Sass · Bootstrap · Material UI · Framer Motion · Recharts · Axios</sub></p>
-
-<br />
+<p align="center"><img src="./assets/focus-areas.svg" alt="My focus: management software, expressive web interfaces and AI-assisted development" width="100%" /></p>
 
 ### ✦ Featured projects
 
@@ -48,6 +34,7 @@
       <p dir="rtl"><strong>هم‌ساختمان — مدیریت مجتمع</strong></p>
       <p>Residential complex management with unit, resident, fee and maintenance workflows.</p>
       <p><code>Blazor</code> <code>ASP.NET Core</code> <code>SQL Server</code></p>
+      <p><a href="./projects/ham-sakhteman.md"><strong>Read project overview ↗</strong></a></p>
       <p><sub>Private source repository</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -56,6 +43,7 @@
       <p dir="rtl"><strong>پهلوان — مدیریت مسابقات رزمی</strong></p>
       <p>Competition workflows from athlete registration and tournament draws to schedules, results and podiums.</p>
       <p><code>C#</code> <code>.NET</code> <code>Tournament workflows</code></p>
+      <p><a href="./projects/pahlevan.md"><strong>Read project overview ↗</strong></a></p>
       <p><sub>Private source repository</sub></p>
     </td>
   </tr>
@@ -66,6 +54,7 @@
       <p dir="rtl"><strong>آئروهاب — مدیریت آموزش خلبانی</strong></p>
       <p>Flight school and pilot training management with course scheduling, flight logs and role-based dashboards.</p>
       <p><code>Blazor</code> <code>.NET</code> <code>PostgreSQL</code></p>
+      <p><a href="./projects/aerohub.md"><strong>Read project overview ↗</strong></a></p>
       <p><sub>Private source repository</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -74,6 +63,7 @@
       <p dir="rtl"><strong>کویر موتور — تجربه مفهومی نینجا</strong></p>
       <p>An independent Persian motorcycle showcase with cinematic scrolling and a 360° product presentation.</p>
       <p><code>React</code> <code>TypeScript</code> <code>GSAP</code></p>
+      <p><a href="./projects/kavir-motor.md"><strong>Read project overview ↗</strong></a></p>
       <p><sub>Private source repository</sub></p>
     </td>
   </tr>
@@ -87,12 +77,36 @@
       <p dir="rtl"><strong>پورتفولیوی شخصی عرفان ابراهیمی</strong></p>
       <p>My Persian developer portfolio, featuring animated sections, skills and selected project showcases.</p>
       <p><code>React</code> <code>Framer Motion</code> <code>Sass</code></p>
+      <p><a href="./projects/portfolio.md"><strong>Read project overview ↗</strong></a></p>
       <a href="https://github.com/Erfan-Ebrahimi/erfan-cv"><strong>Explore the portfolio source ↗</strong></a>
     </td>
   </tr>
 </table>
 
 <p><sub>Project covers are illustrations. The first four projects have private source code.</sub></p>
+
+### ⚡ Stack & tools
+
+<p align="center">
+  <img src="./assets/icons/react.svg" alt="React" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/blazor.svg" alt="Blazor" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/typescript.svg" alt="TypeScript" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/csharp.svg" alt="C#" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/vitejs.svg" alt="Vite" height="42" /> &nbsp;&nbsp;
+  <img src="./assets/icons/git.svg" alt="Git" height="42" />
+</p>
+
+| Area | Technologies used in my projects |
+| --- | --- |
+| Web interfaces | React · Blazor · TypeScript · JavaScript |
+| Application backend | C# · .NET · ASP.NET Core |
+| Data | SQL Server · PostgreSQL |
+| Styling & motion | Tailwind CSS · Sass · Bootstrap · Material UI · Framer Motion · GSAP |
+| Tooling & integration | Git · Vite · Axios · React Router · Recharts |
+
+<p dir="rtl">تمرکز من: نرم‌افزارهای مدیریتی، رابط‌های وب فارسی و توسعهٔ نرم‌افزار با کمک هوش مصنوعی.</p>
 
 <details>
   <summary><strong>Earlier interfaces &amp; experiments</strong></summary>
@@ -102,6 +116,14 @@
 </details>
 
 <br />
+
+### Let's build something
+
+Have an idea for a management application, a React / Blazor interface or an interactive product showcase? <a href="https://t.me/ME_7676"><strong>Tell me about your project ↗</strong></a>
+
+<p dir="rtl">ایده‌ای برای نرم‌افزار مدیریتی، رابط وب یا معرفی تعاملی محصول داری؟ <a href="https://t.me/ME_7676"><strong>دربارهٔ پروژه‌ات صحبت کنیم ↗</strong></a></p>
+
+<p><a href="https://github.com/Erfan-Ebrahimi?tab=repositories">Browse public repositories</a> · <a href="https://github.com/Erfan-Ebrahimi#contributions">See GitHub activity</a></p>
 
 <p align="center"><img src="./assets/software-footer.svg" alt="From an idea to software — let's connect" width="100%" /></p>
 <p align="center">

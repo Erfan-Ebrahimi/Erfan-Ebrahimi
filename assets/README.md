@@ -10,6 +10,8 @@ Project previews are unchanged images from [Erfan's existing public portfolio](h
 
 Toolkit icons come from [Devicon](https://github.com/devicons/devicon). Their MIT license is preserved in `icons/LICENSE`.
 
-Layout inspiration: [Braydon Coyer](https://github.com/braydoncoyer), [Anurag Hazra](https://github.com/anuraghazra), and [DenverCoder1](https://github.com/DenverCoder1). Their text and artwork are not copied.
+Ten reference profiles and the resulting design decisions are recorded in [the profile design notes](../docs/PROFILE_DESIGN.md). Their text and artwork are not copied.
 
 The current featured gallery uses original illustrative covers for Ham-Sakhteman, Pahlevan, AeroHub, Kavir Motor Concept and the personal portfolio. Private application screenshots, data and source files are not included.
+
+`focus-areas.svg` is original artwork describing the three areas represented by those projects: management software, web interfaces and AI-assisted development.
