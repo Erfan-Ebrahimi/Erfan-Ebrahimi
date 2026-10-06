@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Erfan Ebrahimi — AI-assisted software development" width="100%" />
+  <img src="./assets/banner.svg?v=6e56646" alt="Erfan Ebrahimi — AI-assisted software development" width="100%" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@
 
 <br />
 
-<p align="center"><img src="./assets/footer.svg" alt="From an idea to software — let's connect" width="100%" /></p>
+<p align="center"><img src="./assets/footer.svg?v=6e56646" alt="From an idea to software — let's connect" width="100%" /></p>
 <p align="center">
   <a href="https://t.me/ME_7676"><strong>Say hello on Telegram ↗</strong></a>
   &nbsp; · &nbsp;
