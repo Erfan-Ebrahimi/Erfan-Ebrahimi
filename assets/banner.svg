@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Erfan Ebrahimi — Front-end Developer</title>
+  <desc id="desc">A navy developer banner with mint accents, React and Blazor, and an abstract interface illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#080e1b"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#23334d" stroke-width=".6"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)" opacity=".45"/>
+  <circle cx="1205" cy="32" r="195" fill="#0f2b3a" opacity=".45"/>
+  <path d="M64 64H104" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="64" y="105" fill="#83ddca" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">FRONT-END DEVELOPER</text>
+  <text x="60" y="173" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Erfan Ebrahimi</text>
+  <text x="64" y="212" fill="#a9b8cd" font-family="Arial, Helvetica, sans-serif" font-size="21">Interfaces with care. Code with purpose.</text>
+  <rect x="64" y="243" width="79" height="31" rx="15" fill="#163b3d"/>
+  <text x="103" y="264" text-anchor="middle" fill="#9aecd8" font-family="Arial, Helvetica, sans-serif" font-size="14">React</text>
+  <rect x="154" y="243" width="84" height="31" rx="15" fill="#1d2946"/>
+  <text x="196" y="264" text-anchor="middle" fill="#b9cafa" font-family="Arial, Helvetica, sans-serif" font-size="14">Blazor</text>
+  <text x="255" y="264" fill="#8294ad" font-family="Arial, Helvetica, sans-serif" font-size="14">JavaScript / TypeScript / C#</text>
+  <g transform="translate(855 63)">
+    <rect x="0" y="0" width="326" height="197" rx="14" fill="#101b2c" stroke="#2b3f59"/>
+    <path d="M0 35H326" stroke="#2b3f59"/>
+    <circle cx="19" cy="18" r="4" fill="#fb7185"/><circle cx="34" cy="18" r="4" fill="#fbbf24"/><circle cx="49" cy="18" r="4" fill="#6ee7b7"/>
+    <rect x="20" y="55" width="55" height="123" rx="6" fill="#17263d"/>
+    <path d="M31 72H63M31 87H56M31 102H60" stroke="#536882" stroke-width="3" stroke-linecap="round"/>
+    <rect x="91" y="55" width="214" height="54" rx="7" fill="#123b3e"/>
+    <path d="M107 73H205M107 89H161" stroke="#78d9c3" stroke-width="4" stroke-linecap="round"/>
+    <rect x="91" y="121" width="100" height="57" rx="7" fill="#1b2e49"/><rect x="203" y="121" width="102" height="57" rx="7" fill="#1b2e49"/>
+    <path d="M105 159L121 149L137 152L154 135L176 139" fill="none" stroke="#60b9e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M219 138H287M219 151H270M219 164H255" stroke="#5f7796" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="1090" y="290" fill="#5d8299" font-family="monospace" font-size="15">&lt;/&gt;</text>
+</svg>
