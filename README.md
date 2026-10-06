@@ -5,12 +5,12 @@
 <p align="center">
   <a href="https://github.com/Erfan-Ebrahimi/erfan-cv"><img src="./assets/portfolio-link.svg" alt="Portfolio source" height="36" /></a>
   &nbsp;
-  <a href="#-featured-projects"><img src="./assets/projects-link.svg" alt="Featured projects" height="36" /></a>
+  <a href="#user-content--featured-projects"><img src="./assets/projects-link.svg" alt="Featured projects" height="36" /></a>
   &nbsp;
-  <a href="#lets-build-something"><img src="./assets/contact-link.svg" alt="Let's connect" height="36" /></a>
+  <a href="#user-content-lets-build-something"><img src="./assets/contact-link.svg" alt="Let's connect" height="36" /></a>
 </p>
 
-<p align="center"><a href="#-featured-projects">Selected work</a> &nbsp; · &nbsp; <a href="#-stack--tools">Stack &amp; tools</a> &nbsp; · &nbsp; <a href="#lets-build-something">Get in touch</a></p>
+<p align="center"><a href="#user-content--featured-projects">Selected work</a> &nbsp; · &nbsp; <a href="#user-content--stack--tools">Stack &amp; tools</a> &nbsp; · &nbsp; <a href="#user-content-lets-build-something">Get in touch</a></p>
 
 <h2 align="center">Software development, powered by ideas and AI.</h2>
 
@@ -123,7 +123,7 @@ Have an idea for a management application, a React / Blazor interface or an inte
 
 <p dir="rtl">ایده‌ای برای نرم‌افزار مدیریتی، رابط وب یا معرفی تعاملی محصول داری؟ <a href="https://t.me/ME_7676"><strong>دربارهٔ پروژه‌ات صحبت کنیم ↗</strong></a></p>
 
-<p><a href="https://github.com/Erfan-Ebrahimi?tab=repositories">Browse public repositories</a> · <a href="https://github.com/Erfan-Ebrahimi#contributions">See GitHub activity</a></p>
+<p><a href="https://github.com/Erfan-Ebrahimi?tab=repositories">Browse public repositories</a> · <a href="https://github.com/Erfan-Ebrahimi#js-contribution-activity-description">See GitHub activity</a></p>
 
 <p align="center"><img src="./assets/software-footer.svg" alt="From an idea to software — let's connect" width="100%" /></p>
 <p align="center">
