@@ -1,4 +1,4 @@
-[← Back to my profile](../README.md#-featured-projects)
+[← Back to my profile](https://github.com/Erfan-Ebrahimi#-featured-projects)
 
 # Pahlevan
 

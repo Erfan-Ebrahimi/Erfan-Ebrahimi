@@ -1,4 +1,4 @@
-[← Back to my profile](../README.md#-featured-projects)
+[← Back to my profile](https://github.com/Erfan-Ebrahimi#-featured-projects)
 
 # AeroHub
 
@@ -32,7 +32,7 @@ A flight school needs connected information about training courses, schedules an
 
 </div>
 
-This is a software project overview, not a claim of aviation certification or approval for operational flight use.
+AeroHub is an experimental software project.
 
 The source repository remains private. This page is a public overview and contains no application data or internal implementation files.
 
