@@ -1,34 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Erfan Ebrahimi — Front-end Developer</title>
-  <desc id="desc">A navy developer banner with mint accents, React and Blazor, and an abstract interface illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+  <title id="title">Erfan Ebrahimi | Front-end Developer</title>
+  <desc id="desc">Original violet and cyan design with a gently floating browser illustration. React, Blazor, JavaScript, TypeScript and C#.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#080e1b"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#23334d" stroke-width=".6"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111127"/><stop offset="1" stop-color="#080f20"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#c4a0ff"/><stop offset=".55" stop-color="#a6b5ff"/><stop offset="1" stop-color="#60e6e2"/></linearGradient>
+    <radialGradient id="violet"><stop stop-color="#8364dc" stop-opacity=".32"/><stop offset="1" stop-color="#8364dc" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cyan"><stop stop-color="#37c7d4" stop-opacity=".18"/><stop offset="1" stop-color="#37c7d4" stop-opacity="0"/></radialGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#25233e"/><stop offset="1" stop-color="#141e32"/></linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#666790" opacity=".24"/></pattern>
+    <clipPath id="frame"><rect width="1440" height="440" rx="24"/></clipPath>
   </defs>
-  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
-  <rect width="1280" height="320" rx="20" fill="url(#grid)" opacity=".45"/>
-  <circle cx="1205" cy="32" r="195" fill="#0f2b3a" opacity=".45"/>
-  <path d="M64 64H104" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
-  <text x="64" y="105" fill="#83ddca" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">FRONT-END DEVELOPER</text>
-  <text x="60" y="173" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Erfan Ebrahimi</text>
-  <text x="64" y="212" fill="#a9b8cd" font-family="Arial, Helvetica, sans-serif" font-size="21">Interfaces with care. Code with purpose.</text>
-  <rect x="64" y="243" width="79" height="31" rx="15" fill="#163b3d"/>
-  <text x="103" y="264" text-anchor="middle" fill="#9aecd8" font-family="Arial, Helvetica, sans-serif" font-size="14">React</text>
-  <rect x="154" y="243" width="84" height="31" rx="15" fill="#1d2946"/>
-  <text x="196" y="264" text-anchor="middle" fill="#b9cafa" font-family="Arial, Helvetica, sans-serif" font-size="14">Blazor</text>
-  <text x="255" y="264" fill="#8294ad" font-family="Arial, Helvetica, sans-serif" font-size="14">JavaScript / TypeScript / C#</text>
-  <g transform="translate(855 63)">
-    <rect x="0" y="0" width="326" height="197" rx="14" fill="#101b2c" stroke="#2b3f59"/>
-    <path d="M0 35H326" stroke="#2b3f59"/>
-    <circle cx="19" cy="18" r="4" fill="#fb7185"/><circle cx="34" cy="18" r="4" fill="#fbbf24"/><circle cx="49" cy="18" r="4" fill="#6ee7b7"/>
-    <rect x="20" y="55" width="55" height="123" rx="6" fill="#17263d"/>
-    <path d="M31 72H63M31 87H56M31 102H60" stroke="#536882" stroke-width="3" stroke-linecap="round"/>
-    <rect x="91" y="55" width="214" height="54" rx="7" fill="#123b3e"/>
-    <path d="M107 73H205M107 89H161" stroke="#78d9c3" stroke-width="4" stroke-linecap="round"/>
-    <rect x="91" y="121" width="100" height="57" rx="7" fill="#1b2e49"/><rect x="203" y="121" width="102" height="57" rx="7" fill="#1b2e49"/>
-    <path d="M105 159L121 149L137 152L154 135L176 139" fill="none" stroke="#60b9e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M219 138H287M219 151H270M219 164H255" stroke="#5f7796" stroke-width="3" stroke-linecap="round"/>
+  <style>
+    .float{animation:float 7s ease-in-out infinite}.spark{animation:spark 4s ease-in-out infinite}.cursor{animation:blink 1.4s steps(2,end) infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes spark{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes blink{0%,100%{opacity:0}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.float,.spark,.cursor{animation:none}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1440" height="440" fill="url(#bg)"/>
+    <rect width="1440" height="440" fill="url(#dots)"/>
+    <ellipse cx="1070" cy="190" rx="420" ry="355" fill="url(#violet)"/>
+    <ellipse cx="1350" cy="395" rx="450" ry="290" fill="url(#cyan)"/>
+    <path d="M-60 390C250 285 475 460 785 410S1240 355 1500 405" fill="none" stroke="#3e345c"/>
+    <path d="M-40 425C270 320 500 490 810 443S1225 380 1480 435" fill="none" stroke="#293958"/>
+    <rect x="56" y="48" width="46" height="36" rx="10" fill="#a58aff" fill-opacity=".13" stroke="#79629e" stroke-opacity=".5"/>
+    <text x="79" y="72" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#c6afff">EE</text>
+    <text x="120" y="72" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3.2" fill="#b6adc9">FRONT-END DEVELOPER</text>
+    <text x="52" y="178" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="-2.8" fill="#f8f7ff">Erfan Ebrahimi<tspan fill="#b69aff">.</tspan></text>
+    <text x="57" y="234" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="600" fill="url(#accent)">Thoughtful code. Beautiful interfaces.</text>
+    <text x="58" y="277" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#969ebc">From an idea to the details that make it feel right.</text>
+    <g font-family="Arial,Helvetica,sans-serif" font-size="17">
+      <rect x="57" y="317" width="96" height="38" rx="19" fill="#193446" stroke="#386473"/>
+      <text x="105" y="342" fill="#82e0e3" text-anchor="middle">React</text>
+      <rect x="165" y="317" width="102" height="38" rx="19" fill="#2a2343" stroke="#554674"/>
+      <text x="216" y="342" fill="#c6afff" text-anchor="middle">Blazor</text>
+      <text x="289" y="342" fill="#a9aec5">JavaScript · TypeScript · C#</text>
+    </g>
+    <g transform="translate(889 89)">
+      <ellipse cx="203" cy="134" rx="254" ry="174" fill="none" stroke="#8774b3" stroke-opacity=".24" transform="rotate(-17 203 134)"/>
+      <ellipse cx="203" cy="134" rx="231" ry="153" fill="none" stroke="#58becb" stroke-opacity=".2" transform="rotate(15 203 134)"/>
+      <circle class="spark" cx="-35" cy="89" r="5" fill="#bc9bff"/>
+      <circle class="spark" cx="389" cy="-9" r="4" fill="#74e0e4"/>
+      <g class="float">
+        <rect x="-2" y="16" width="420" height="270" rx="18" fill="#030914" fill-opacity=".4"/>
+        <rect width="420" height="264" rx="18" fill="url(#window)" stroke="#6a628d" stroke-opacity=".7"/>
+        <path d="M1 42H419" stroke="#4a4967"/>
+        <circle cx="23" cy="22" r="4" fill="#fa9da9"/><circle cx="38" cy="22" r="4" fill="#f4d08b"/><circle cx="53" cy="22" r="4" fill="#8bd9c9"/>
+        <text x="172" y="27" font-family="monospace" font-size="13" fill="#a09bb5">interface.tsx</text>
+        <g font-family="Consolas,monospace" font-size="17">
+          <text x="26" y="81" fill="#7f88a8">01</text><text x="60" y="81" fill="#d0b7ff">const <tspan fill="#8be1e6">ui</tspan><tspan fill="#d8dcee"> = {</tspan></text>
+          <text x="26" y="113" fill="#7f88a8">02</text><text x="80" y="113" fill="#c0c9e1">stack: <tspan fill="#96dec9">["React", "Blazor"]</tspan>,</text>
+          <text x="26" y="145" fill="#7f88a8">03</text><text x="80" y="145" fill="#c0c9e1">focus: <tspan fill="#e9c6a7">"the details"</tspan>,</text>
+          <text x="26" y="177" fill="#7f88a8">04</text><text x="80" y="177" fill="#c0c9e1">madeWith: <tspan fill="#96dec9">"care"</tspan></text>
+          <text x="26" y="209" fill="#7f88a8">05</text><text x="60" y="209" fill="#d8dcee">};</text>
+          <rect class="cursor" x="87" y="195" width="9" height="18" fill="#bca3ff"/>
+        </g>
+        <rect x="25" y="230" width="370" height="1" fill="#45425f"/>
+        <circle cx="33" cy="245" r="3" fill="#9ee3c9"/><text x="45" y="249" fill="#9dabc5" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1">COMPONENTS / STYLES / INTERACTIONS</text>
+        <g transform="translate(298 175)">
+          <rect width="105" height="75" rx="13" fill="#171e32" stroke="#797099"/>
+          <rect x="14" y="14" width="77" height="18" rx="5" fill="url(#accent)"/>
+          <rect x="14" y="42" width="35" height="18" rx="4" fill="#303953"/><rect x="57" y="42" width="34" height="18" rx="4" fill="#303953"/>
+        </g>
+      </g>
+      <path d="M439 165V177M433 171H445" stroke="#91dfdf" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="57" y="408" fill="#686e90" font-family="monospace" font-size="13" letter-spacing="1">BUILD / REFINE / REPEAT</text>
+    <text x="1340" y="408" fill="#8182a1" text-anchor="end" font-family="monospace" font-size="16">&lt; / &gt;</text>
   </g>
-  <text x="1090" y="290" fill="#5d8299" font-family="monospace" font-size="15">&lt;/&gt;</text>
 </svg>
